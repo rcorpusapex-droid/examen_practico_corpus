@@ -1,0 +1,9 @@
+package pokeapi.model;
+
+public class AbilitySlot {
+    private AbilityInfo ability;
+
+    public AbilityInfo getAbility() {
+        return ability;
+    }
+}
