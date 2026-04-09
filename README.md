@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 # Java Ejercicios + PokeAPI Pro
 
 Proyecto desarrollado en Java que reúne ejercicios prácticos de lógica y programación orientada a objetos, junto con un módulo de consumo de API externa usando PokeAPI. Además, se incluye una versión con Spring Boot para exponer un endpoint local y realizar pruebas desde Postman o navegador.
 
-## Descripción del proyecto
+## Descripción del proyecto.
 
 Este proyecto está dividido en dos partes principales.
 
